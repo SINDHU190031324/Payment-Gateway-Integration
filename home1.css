@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-image: url(88.jpg);
+    background-position: center;
+    background-size: auto;
+}
